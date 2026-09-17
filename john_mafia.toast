@@ -1,0 +1,9 @@
+name = "John Mafia"
+version = [0, 1, 0]
+databases = ["assets"]
+[gameplay]
+init_scene = ""
+player = ""
+[ui]
+color_scheme = ""
+languages = ["en"]
