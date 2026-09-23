@@ -1,0 +1,6 @@
+density = 1800.0
+toughness = 1000.0
+structural_strength = 1000.0
+shatter_radius = 0.400000006
+flammable = "False"
+burn_rate = 0.0

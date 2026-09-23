@@ -1,0 +1,70 @@
+~format @int = 4
+
+[Player type=physics::DynamicRigidbody]
+m_uid @uid = JWuvtTbmlUU
+m_local_enabled @bool = true
+m_scripts @array_uid = xd_-Q-F0Ku4
+position @vec3 = 0 0 0
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+material @uid = AAAAAAAAAAA
+mass @float = 70
+gravity_scale @float = 1
+allow_sleep @bool = true
+.World Transform
+.Position Locks
+    lock_pos_x @bool = false
+    lock_pos_y @bool = false
+    lock_pos_z @bool = false
+.Rotation Locks
+    lock_rot_x @bool = true
+    lock_rot_y @bool = true
+    lock_rot_z @bool = true
+.Constant Forces
+.Mass Distribution
+.Velocities
+
+[CapsuleCollider type=physics::CapsuleCollider]
+m_uid @uid = xNa-YuSYSr0
+m_local_enabled @bool = true
+m_parent @uid = JWuvtTbmlUU
+m_scripts @array_uid = 
+position @vec3 = 0 0 0
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+disabled @bool = false
+debug_color @vec4 = 0 1 0.251 0.5
+debug_fill @bool = false
+radius @float = 0.5
+height @float = 2
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+
+[Camera type=toast::Camera]
+m_uid @uid = 72tAZF5YWpk
+m_local_enabled @bool = true
+m_parent @uid = JWuvtTbmlUU
+m_scripts @array_uid = 
+position @vec3 = 0 0.2 0.6
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+fov @float = 75
+near_plane @float = 0.01
+far_plane @float = 5000
+m_is_main_camera @bool = false
+.World Transform
+
+[PlayerController type=input::PlayerController]
+m_uid @uid = NQX6mJyg2j8
+m_local_enabled @bool = true
+m_parent @uid = JWuvtTbmlUU
+m_scripts @array_uid = 
+default_layout @string = "Demo Layout"
+default_layer @string = ""
+layouts @array_uid = zL9Xee6ewLE
+use_settings @bool = false
+settings_name @string = ""
+controller_id @int = 0

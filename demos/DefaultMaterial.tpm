@@ -1,0 +1,5 @@
+# Toast Physics Material
+schema = "Wausy1NQVE0"
+restitution = 0.1
+static_friction = 0.6
+dynamic_friction = 0.5

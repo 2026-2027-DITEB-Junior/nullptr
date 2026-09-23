@@ -1,0 +1,2845 @@
+max_emissive = 1.0
+[[materials]]
+name = "Glass"
+physics = "92Ayy2T4yrg"
+destruction = "baXQXjtILVA"
+dust_colour = [128, 128, 128]
+
+[[materials]]
+name = "Wood"
+physics = "92Ayy2T4yrg"
+destruction = "I8cXOly-Tbg"
+dust_colour = [128, 128, 128]
+
+[[materials]]
+name = "Brick"
+physics = "92Ayy2T4yrg"
+destruction = "tpSNlxXH40s"
+dust_colour = [128, 128, 128]
+
+[[materials]]
+name = ""
+dust_colour = [128, 128, 128]
+
+[[materials]]
+name = ""
+dust_colour = [128, 128, 128]
+
+[[materials]]
+name = ""
+dust_colour = [128, 128, 128]
+
+[[materials]]
+name = ""
+dust_colour = [128, 128, 128]
+
+[[materials]]
+name = ""
+dust_colour = [128, 128, 128]
+[[entries]]
+index = 1
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 2
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 3
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 4
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 5
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 6
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 7
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 8
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 9
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 10
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 11
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 12
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 13
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 14
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 15
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 16
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 17
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 18
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 19
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 20
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 21
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 22
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 23
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 24
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 25
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 26
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 27
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 28
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 29
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 30
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 31
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 32
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 33
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 34
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 35
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 36
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 37
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 38
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 39
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 40
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 41
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 42
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 43
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 44
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 45
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 46
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 47
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 48
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 49
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 50
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 51
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 52
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 53
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 54
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 55
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 56
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 57
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 58
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 59
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 60
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 61
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 62
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 63
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 64
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 65
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 66
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 67
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 68
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 69
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 70
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 71
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 72
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 73
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 74
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 75
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 76
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 77
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 78
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 79
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 80
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 81
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 82
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 83
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 84
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 85
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 86
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 87
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 88
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 89
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 90
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 91
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 92
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 93
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 94
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 95
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 96
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 97
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 98
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 99
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 100
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 101
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 102
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 103
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 104
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 105
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 106
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 107
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 108
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 109
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 110
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 111
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 112
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 113
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 114
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 115
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 116
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 117
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 118
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 119
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 120
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 121
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 122
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 123
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 124
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 125
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 126
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 127
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 128
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 129
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 130
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 131
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 132
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 133
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 134
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 135
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 136
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 137
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 138
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 139
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 140
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 141
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 142
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 143
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 144
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 145
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 146
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 147
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 148
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 149
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 150
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 151
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 152
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 153
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 154
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 155
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 156
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 157
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 158
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 159
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 160
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 161
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 162
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 163
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 164
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 165
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 166
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 167
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 168
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 169
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 170
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 171
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 172
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 173
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 174
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 175
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 176
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 177
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 178
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 179
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 180
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 181
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 182
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 183
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 184
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 185
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 186
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 187
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 188
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 189
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 190
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 191
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 192
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 193
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 194
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 195
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 196
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 197
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 198
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 199
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 200
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 201
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 202
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 203
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 204
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 205
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 206
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 207
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 208
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 209
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 210
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 211
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 212
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 213
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 214
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 215
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 216
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 217
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 218
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 219
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 220
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 221
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 222
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 223
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 224
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 225
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 226
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 227
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 228
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 229
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 230
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 231
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 232
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 233
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 234
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 235
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 236
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 237
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 238
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 239
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 240
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 241
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 242
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 243
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 244
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 245
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 246
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 247
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 248
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 249
+albedo = [0, 151, 255]
+roughness = 0.10000000149011612
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 0.20000000298023224
+transforms_to = 0
+transparent = true
+
+[[entries]]
+index = 250
+albedo = [139, 63, 31]
+roughness = 0.699999988079071
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+material = 2
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 251
+albedo = [183, 150, 127]
+roughness = 0.800000011920929
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+material = 2
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 252
+albedo = [121, 72, 44]
+roughness = 0.5
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+material = 1
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 253
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 254
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false
+
+[[entries]]
+index = 255
+albedo = [75, 75, 75]
+roughness = 0.10196078568696976
+metallic = 0.0
+reflectivity = 0.0
+emissive = 0.0
+alpha = 1.0
+transforms_to = 0
+transparent = false

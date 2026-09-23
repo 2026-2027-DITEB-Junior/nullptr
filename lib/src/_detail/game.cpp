@@ -6,16 +6,16 @@
  */
 
 #include "game.h"
-#include "../my_game.hpp"
+#include "../game.hpp"
 
 game_t* game_create(void) {
-	auto* game = new MyGame();
+	auto* game = new MafiaGame();
 	toast::pushApplicationLayer(game);
 	return reinterpret_cast<game_t*>(game);
 }
 
 void game_destroy(game_t* g) {
-	auto game = reinterpret_cast<MyGame*>(g);
+	auto game = reinterpret_cast<MafiaGame*>(g);
 	toast::popApplicationLayer(game);
 	delete game;
 }

@@ -1,0 +1,7 @@
+name = "DemoAim"
+function_name = "onAim"
+description = ""
+type = "Action2D"
+accumulation = false
+bind = [{keycode = "mouse/cursor", trigger = [{name = "cursor", space = 0, delta = true}], modifier = []}]
+modifier = []

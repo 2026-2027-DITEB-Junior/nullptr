@@ -1,0 +1,7 @@
+name = "DemoMove"
+function_name = "onMove"
+description = ""
+type = "Action2D"
+accumulation = false
+bind = [{keycode = "keyboard/w", trigger = [{name = "hold", value = [0.0, 1.0], threshold_start = 0.5, threshold_release = 0.5, countdown = 0.0, send_start = true, send_release = true}], modifier = []}, {keycode = "keyboard/s", trigger = [{name = "hold", value = [0.0, -1.0], threshold_start = 0.5, threshold_release = 0.5, countdown = 0.0, send_start = true, send_release = true}], modifier = []}, {keycode = "keyboard/a", trigger = [{name = "hold", value = [-1.0, 0.0], threshold_start = 0.5, threshold_release = 0.5, countdown = 0.0, send_start = true, send_release = true}], modifier = []}, {keycode = "keyboard/d", trigger = [{name = "hold", value = [1.0, 0.0], threshold_start = 0.5, threshold_release = 0.5, countdown = 0.0, send_start = true, send_release = true}], modifier = []}]
+modifier = []

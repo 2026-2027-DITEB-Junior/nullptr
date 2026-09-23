@@ -1,0 +1,483 @@
+~format @int = 4
+
+[Scene type=toast::Node]
+m_uid @uid = lMsIxaib7MI
+m_local_enabled @bool = true
+m_scripts @array_uid = 
+
+[StaticRigidbody type=physics::StaticRigidbody]
+m_uid @uid = 38dMRoqDm7A
+m_local_enabled @bool = true
+m_parent @uid = lMsIxaib7MI
+m_scripts @array_uid = 
+position @vec3 = 0 0 -0.5
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+material @uid = AAAAAAAAAAA
+linear_velocity @vec3 = 0 0 0
+angular_velocity @vec3 = 0 0 0
+.World Transform
+.Position Locks
+    lock_pos_x @bool = false
+    lock_pos_y @bool = false
+    lock_pos_z @bool = false
+.Rotation Locks
+    lock_rot_x @bool = false
+    lock_rot_y @bool = false
+    lock_rot_z @bool = false
+
+[BoxCollider type=physics::BoxCollider]
+m_uid @uid = dVDE7URL3vQ
+m_local_enabled @bool = true
+m_parent @uid = 38dMRoqDm7A
+m_scripts @array_uid = 
+position @vec3 = 0 0 0
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+disabled @bool = false
+debug_color @vec4 = 0 1 0.251 0.5
+debug_fill @bool = false
+size @vec3 = 35 20 1
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+
+[MeshNode type=toast::MeshNode]
+m_uid @uid = 469FKraXwg8
+m_local_enabled @bool = true
+m_parent @uid = 38dMRoqDm7A
+m_scripts @array_uid = 
+position @vec3 = 0 0 0
+rotation @quat = 0 0 0 1
+scale @vec3 = 30 15 1
+m_mesh @uid = 9vI6TeHi46k
+m_material @uid = AAAAAAAAAAA
+m_skin_animation @uid = AAAAAAAAAAA
+m_skin_name @string = ""
+.World Transform
+
+[DemoWalls type=toast::Node]
+m_uid @uid = CkZX6x4--7Y
+m_local_enabled @bool = true
+m_parent @uid = lMsIxaib7MI
+m_scripts @array_uid = 
+
+[Glass type=toast::VoxelNode]
+m_uid @uid = fcEmcn1Al-Q
+m_local_enabled @bool = true
+m_parent @uid = CkZX6x4--7Y
+m_scripts @array_uid = 
+position @vec3 = -13 5 0
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+m_model @uid = 9i4F-2djAU0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[Brick type=toast::VoxelNode]
+m_uid @uid = mKwvDC6m_rg
+m_local_enabled @bool = true
+m_parent @uid = CkZX6x4--7Y
+m_scripts @array_uid = 
+position @vec3 = -9 5 0
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+m_model @uid = Mf0TVZ_Sjf0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[Wood type=toast::VoxelNode]
+m_uid @uid = lZZT0XO62fU
+m_local_enabled @bool = true
+m_parent @uid = CkZX6x4--7Y
+m_scripts @array_uid = 
+position @vec3 = -5 5 0
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+m_model @uid = uhDDfOTaWu0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[Glass_2 type=toast::VoxelNode]
+m_uid @uid = bUz0W5oBW84
+m_local_enabled @bool = true
+m_parent @uid = CkZX6x4--7Y
+m_scripts @array_uid = 
+position @vec3 = -13 -6 0
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+m_model @uid = 9i4F-2djAU0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[Brick_2 type=toast::VoxelNode]
+m_uid @uid = 8x0ER6EYJxY
+m_local_enabled @bool = true
+m_parent @uid = CkZX6x4--7Y
+m_scripts @array_uid = 
+position @vec3 = -9 -6 0
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+m_model @uid = Mf0TVZ_Sjf0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[Wood_2 type=toast::VoxelNode]
+m_uid @uid = WDhGfgqz3RA
+m_local_enabled @bool = true
+m_parent @uid = CkZX6x4--7Y
+m_scripts @array_uid = 
+position @vec3 = -2 -6 0
+rotation @quat = 0 0 1 5.960465e-08
+scale @vec3 = 1.0000012 1.0000012 1
+m_model @uid = uhDDfOTaWu0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[Player type=physics::DynamicRigidbody]
+m_uid @uid = Vxqj7VTuTLc
+m_parent @uid = lMsIxaib7MI
+m_source_prefab @uid = -IiXXhTuZic
+position @vec3 = -7.5 0 1
+.World Transform
+.Position Locks
+.Rotation Locks
+.Constant Forces
+.Mass Distribution
+.Velocities
+
+[Side_Demo type=toast::Node]
+m_uid @uid = qexp_qZpnDc
+m_local_enabled @bool = true
+m_parent @uid = lMsIxaib7MI
+m_scripts @array_uid = 
+
+[Brick type=toast::VoxelNode]
+m_uid @uid = 7T6_FBXOz5U
+m_local_enabled @bool = true
+m_parent @uid = qexp_qZpnDc
+m_scripts @array_uid = 
+position @vec3 = 3 5 0
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+m_model @uid = Mf0TVZ_Sjf0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[Brick_2 type=toast::VoxelNode]
+m_uid @uid = uddCgP5y3V8
+m_local_enabled @bool = false
+m_parent @uid = qexp_qZpnDc
+m_scripts @array_uid = 
+position @vec3 = 6 5 0
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+m_model @uid = Mf0TVZ_Sjf0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[Brick_3 type=toast::VoxelNode]
+m_uid @uid = DFptg0NXekE
+m_local_enabled @bool = true
+m_parent @uid = qexp_qZpnDc
+m_scripts @array_uid = 
+position @vec3 = 9 5 0
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+m_model @uid = Mf0TVZ_Sjf0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[Brick_4 type=toast::VoxelNode]
+m_uid @uid = aK0FLYcmsQ0
+m_local_enabled @bool = true
+m_parent @uid = qexp_qZpnDc
+m_scripts @array_uid = 
+position @vec3 = 12 6 0
+rotation @quat = 0 0 -0.7071068 0.7071067
+scale @vec3 = 0.9999999 0.9999999 1
+m_model @uid = Mf0TVZ_Sjf0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[Brick_5 type=toast::VoxelNode]
+m_uid @uid = n9dx_92yOYU
+m_local_enabled @bool = true
+m_parent @uid = qexp_qZpnDc
+m_scripts @array_uid = 
+position @vec3 = 12 3 0
+rotation @quat = 0 0 -0.7071068 0.7071067
+scale @vec3 = 0.9999995 0.9999995 1
+m_model @uid = Mf0TVZ_Sjf0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[Brick_6 type=toast::VoxelNode]
+m_uid @uid = 3mPiXbASUH4
+m_local_enabled @bool = true
+m_parent @uid = qexp_qZpnDc
+m_scripts @array_uid = 
+position @vec3 = 12 0 0
+rotation @quat = 0 0 -0.7071068 0.7071067
+scale @vec3 = 0.9999989 0.9999989 1
+m_model @uid = Mf0TVZ_Sjf0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[Brick_7 type=toast::VoxelNode]
+m_uid @uid = 4h4cWFps1m4
+m_local_enabled @bool = true
+m_parent @uid = qexp_qZpnDc
+m_scripts @array_uid = 
+position @vec3 = 12 -3 0
+rotation @quat = 0 0 -0.7071068 0.7071067
+scale @vec3 = 0.9999981 0.9999981 1
+m_model @uid = Mf0TVZ_Sjf0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[Wood type=toast::VoxelNode]
+m_uid @uid = eas4FfSwMaI
+m_local_enabled @bool = true
+m_parent @uid = qexp_qZpnDc
+m_scripts @array_uid = 
+position @vec3 = 6 5 0
+rotation @quat = 0 0 0 1
+scale @vec3 = 1 1 1
+m_model @uid = uhDDfOTaWu0
+m_palette @uid = UInyB8Vhn1w
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[VoxelNode type=toast::VoxelNode]
+m_uid @uid = 9X2jHmODh7I
+m_local_enabled @bool = true
+m_parent @uid = qexp_qZpnDc
+m_scripts @array_uid = 
+position @vec3 = 10 1 0
+rotation @quat = 0 0 0.49999994 0.86602545
+scale @vec3 = 0.99999976 0.99999976 1
+m_model @uid = TGJdz-xxQ2Q
+m_palette @uid = P6trD2NKdOI
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities
+
+[VoxelNode_2 type=toast::VoxelNode]
+m_uid @uid = DFKRT4VctPY
+m_local_enabled @bool = true
+m_parent @uid = qexp_qZpnDc
+m_scripts @array_uid = 
+position @vec3 = 10 -2 0
+rotation @quat = 0 0 0.49999994 0.86602545
+scale @vec3 = 0.99999976 0.99999976 1
+m_model @uid = TGJdz-xxQ2Q
+m_palette @uid = P6trD2NKdOI
+indestructible @bool = false
+.World Transform
+.AABB
+    show_aabb @bool = false
+    aabb_color @vec4 = 1 0.75 0.15 0.6
+    aabb_fill @bool = false
+.Physics
+    allow_sleep @bool = true
+    gravity_scale @float = 1
+    auto_mass_center @bool = true
+    ..Constant Forces
+    ..Position Locks
+    ..Rotation Locks
+    ..Velocities

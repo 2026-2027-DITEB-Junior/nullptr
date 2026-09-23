@@ -1,5 +1,5 @@
 ﻿cmake_minimum_required(VERSION 3.21)
-project(my_game CXX)
+project(mafia_game CXX)
 set(CMAKE_CXX_STANDARD 23)
 
 if (NOT TOAST_PATH)
@@ -36,18 +36,18 @@ else ()
 endif ()
 
 file(GLOB_RECURSE SOURCE "src/*.cpp" "generated/*.cpp")
-add_library(my_game SHARED ${SOURCE})
-target_include_directories(my_game PUBLIC
+add_library(mafia_game SHARED ${SOURCE})
+target_include_directories(mafia_game PUBLIC
         ${CMAKE_CURRENT_SOURCE_DIR}/src
         ${CMAKE_CURRENT_SOURCE_DIR}/generated
 )
 
-target_compile_options(my_game PRIVATE
+target_compile_options(mafia_game PRIVATE
         $<$<OR:$<CXX_COMPILER_ID:Clang>,$<CXX_COMPILER_ID:AppleClang>>:-Wno-unknown-attributes>
         $<$<CXX_COMPILER_ID:GNU>:-Wno-attributes>
         $<$<CXX_COMPILER_ID:MSVC>:/wd5030>
 )
 
-target_link_libraries(my_game PUBLIC toast_engine)
-target_compile_definitions(my_game PRIVATE GAME_EXPORT)
+target_link_libraries(mafia_game PUBLIC toast_engine)
+target_compile_definitions(mafia_game PRIVATE GAME_EXPORT)
 

@@ -12,7 +12,7 @@ namespace toast {
 void registerGameTypes();
 }
 
-class MyGame : public toast::IApplication {
+class MafiaGame : public toast::IApplication {
 public:
 	// Try adding stuff here! -xein
 	// Reading the documentation at https://docs.nullptr.es might help

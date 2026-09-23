@@ -1,0 +1,9 @@
+uid = "TGJdz-xxQ2Q"
+type = "voxel_model"
+source = "artwork://cars.vox"
+created_at = "2026-09-22T23:02:51.0935138Z"
+modified_at = "2026-09-22T23:02:51.0935208Z"
+[vox]
+create_folder = false
+import_palette = true
+generate_prefab = false
